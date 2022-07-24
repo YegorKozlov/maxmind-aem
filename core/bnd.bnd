@@ -1,0 +1,6 @@
+Import-Package: \
+  javax.annotation;version=0.0.0, \
+  !sun.misc*, \
+  *
+Private-Package: \
+  com.maxmind.*
